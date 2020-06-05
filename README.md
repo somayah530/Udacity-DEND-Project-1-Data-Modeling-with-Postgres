@@ -36,7 +36,7 @@ They used to describe dimensions; they contain dimension keys, values and attrib
 
 
 #### Data model used in this project:
-![Nread%20me.png](attachment:Nread%20me.png)
+![Nread me](https://user-images.githubusercontent.com/24846149/83827735-b7d3f900-a6e7-11ea-89e7-aba81424b834.png)
 
 
 
